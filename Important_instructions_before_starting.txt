@@ -1,0 +1,11 @@
+Goals we need to achieve:
+1. Create two seperate programs. 
+
+One that decodes the Caesar's cypher(Done by me) and the other which converts the simple text to Caesar's Cypher(To be done by you).
+Instructions for your program- 1)Take two inputs: a key i.e int type and a string that is the simple message to be converted to caesar's cypher.
+2) Use only capital alphabets. Use exception handling for the input of wrong data types.
+3)Avoid using random names for variables to make the code more readable.
+
+Note: Deadline to complete Goal 1 is next sunday i.e 26/08/18. Next goal will be updated after that.
+
+Thank You!!
